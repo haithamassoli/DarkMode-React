@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Reminder-React/static/css/main.9f777a08.chunk.css",
-    "main.js": "/Reminder-React/static/js/main.acd553bc.chunk.js",
-    "main.js.map": "/Reminder-React/static/js/main.acd553bc.chunk.js.map",
-    "runtime-main.js": "/Reminder-React/static/js/runtime-main.1569040b.js",
-    "runtime-main.js.map": "/Reminder-React/static/js/runtime-main.1569040b.js.map",
-    "static/js/2.a99e8b18.chunk.js": "/Reminder-React/static/js/2.a99e8b18.chunk.js",
-    "static/js/2.a99e8b18.chunk.js.map": "/Reminder-React/static/js/2.a99e8b18.chunk.js.map",
-    "index.html": "/Reminder-React/index.html",
-    "precache-manifest.80e70fc51e341b25e244288a88b8c511.js": "/Reminder-React/precache-manifest.80e70fc51e341b25e244288a88b8c511.js",
-    "service-worker.js": "/Reminder-React/service-worker.js",
-    "static/css/main.9f777a08.chunk.css.map": "/Reminder-React/static/css/main.9f777a08.chunk.css.map",
-    "static/js/2.a99e8b18.chunk.js.LICENSE.txt": "/Reminder-React/static/js/2.a99e8b18.chunk.js.LICENSE.txt"
+    "main.css": "/DarkMode-React/static/css/main.9f777a08.chunk.css",
+    "main.js": "/DarkMode-React/static/js/main.acd553bc.chunk.js",
+    "main.js.map": "/DarkMode-React/static/js/main.acd553bc.chunk.js.map",
+    "runtime-main.js": "/DarkMode-React/static/js/runtime-main.1e35e6e4.js",
+    "runtime-main.js.map": "/DarkMode-React/static/js/runtime-main.1e35e6e4.js.map",
+    "static/js/2.a99e8b18.chunk.js": "/DarkMode-React/static/js/2.a99e8b18.chunk.js",
+    "static/js/2.a99e8b18.chunk.js.map": "/DarkMode-React/static/js/2.a99e8b18.chunk.js.map",
+    "index.html": "/DarkMode-React/index.html",
+    "precache-manifest.b971381ca9fcc274d2a4e0fb73ad0102.js": "/DarkMode-React/precache-manifest.b971381ca9fcc274d2a4e0fb73ad0102.js",
+    "service-worker.js": "/DarkMode-React/service-worker.js",
+    "static/css/main.9f777a08.chunk.css.map": "/DarkMode-React/static/css/main.9f777a08.chunk.css.map",
+    "static/js/2.a99e8b18.chunk.js.LICENSE.txt": "/DarkMode-React/static/js/2.a99e8b18.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1569040b.js",
+    "static/js/runtime-main.1e35e6e4.js",
     "static/js/2.a99e8b18.chunk.js",
     "static/css/main.9f777a08.chunk.css",
     "static/js/main.acd553bc.chunk.js"
